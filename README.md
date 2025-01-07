@@ -1,3 +1,3 @@
-# Nali
+# Nali & Doggo Raycast Extension
 
-DNS Lookup and IP Geolocation
+A Raycast extension that integrates Nali and Doggo for performing DNS lookups and IP geolocation.
